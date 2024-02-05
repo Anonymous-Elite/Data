@@ -1,0 +1,216 @@
+V25 Pro|Vivo|{density=3.0,width=1080,height=2376}
+V25|Vivo|{density=3.0,width=1080,height=2404}
+V25e|Vivo|{density=3.0,width=1080,height=2404}
+i3 Pro|Tecno|{density=2.75,width=720,height=1280}
+iQOO Z6x|Vivo|{density=3.0,width=1080,height=2408}
+Tecno CX Air|Tecno|{density=2.75,width=720,height=1440}
+Tecno K7|Tecno|{density=2.75,width=720,height=1280}
+Tecno Phantom 8|Tecno|{density=3.0,width=1080,height=1}
+ROG Phone 5s|Asus|{density=3.0,width=1080,height=2448}
+ROG Phone 6|Asus|{density=3.0,width=1080,height=2448}
+ROG Phone 6 Pro|Asus|{density=3.0,width=1080,height=2448}
+Reno8 4G|Oppo|{density=3.0,width=1080,height=2400}
+Reno8 Pro|Oppo|{density=3.0,width=1080,height=2412}
+Pixel 3a XL|Google|{density=3.0,width=1080,height=2160}
+Pixel 4 XL|Google|{density=3.0,width=1440,height=3040}
+Pixel 4a 5G|Google|{density=3.0,width=1080,height=2340}
+Pixel 4a|Google|{density=3.0,width=1080,height=2340}
+Pixel 5|Google|{density=3.0,width=1080,height=2340}
+Pixel 5a 5G|Google|{density=3.0,width=1080,height=2400}
+Pixel 6|Google|{density=3.0,width=1080,height=2400}
+Pixel 6 Pro|Google|{density=3.0,width=1440,height=3120}
+Pixel 6a|Google|{density=3.0,width=1080,height=2400}
+Note 12 Pro|Infinix|{density=3.0,width=1080,height=2400}
+Note 12i|Infinix|{density=2.75,width=720,height=1640}
+LA7|Tecno|{density=2.75,width=720,height=1440}
+Galaxy A04|Samsung|{density=2.75,width=720,height=1600}
+Galaxy A04s|Samsung|{density=2.75,width=720,height=1600}
+Galaxy A23 5G|Samsung|{density=3.0,width=1080,height=2408}
+Galaxy F13|Samsung|{density=3.0,width=1080,height=2408}
+Galaxy F23|Samsung|{density=3.0,width=1080,height=2408}
+Galaxy M13 5G|Samsung|{density=2.75,width=720,height=1600}
+Galaxy M53|Samsung|{density=3.0,width=1080,height=2408}
+F15|Oppo|{density=3.0,width=1080,height=2400}
+F17 Pro|Oppo|{density=3.0,width=1080,height=2400}
+F19 Pro|Oppo|{density=3.0,width=1080,height=2400}
+A12|Oppo|{density=2.75,width=720,height=1520}
+A15|Oppo|{density=2.75,width=720,height=1600}
+A54 5G|Oppo|{density=3.0,width=1080,height=2400}
+A57e|Oppo|{density=2.75,width=720,height=1612}
+A57s|Oppo|{density=2.75,width=720,height=1612}
+A74 5G|Oppo|{density=3.0,width=1080,height=2400}
+Hot 11S|Infinix|{density=3.0,width=1080,height=2480}
+Hot 12 Pro|Infinix|{density=2.75,width=720,height=1612}
+Vivo V23 5G|Vivo|{density=3.0,width=1080,height=2400}
+Vivo Y91|Vivo|{density=2.75,width=720,height=1520}
+Y35|Vivo|{density=3.0,width=1080,height=2408}
+Zenfone 6 ZS630KL|Asus|{density=3.0,width=1080,height=2340}
+Zenfone 8|Asus|{density=3.0,width=1080,height=2400}
+Zenfone 9|Asus|{density=3.0,width=1080,height=2400}
+Zenfone Max Plus (M2) ZB63KL|Asus|{density=3.0,width=1080,height=2246}
+LA7|Tecno|{density=2.75,width=720,height=1440}
+i3 Pro|Tecno|{density=2.75,width=720,height=1280}
+Tecno K7|Tecno|{density=2.75,width=720,height=1280}
+Tecno CX Air|Tecno|{density=2.75,width=720,height=1440}
+Tecno Phantom 8|Tecno|{density=3.0,width=1080,height=1}
+CAMON 11|Tecno|{density=2.75,width=720,height=1500}
+Spark 2|Tecno|{density=2.75,width=720,height=1440}
+F15|Oppo|{density=3.0,width=1080,height=2400}
+F17 Pro|Oppo|{density=3.0,width=1080,height=2400}
+F19 Pro|Oppo|{density=3.0,width=1080,height=2400}
+A74 5G|Oppo|{density=3.0,width=1080,height=2400}
+A12|Oppo|{density=2.75,width=720,height=1520}
+A57e|Oppo|{density=2.75,width=720,height=1612}
+A57s|Oppo|{density=2.75,width=720,height=1612}
+Reno8 4G|Oppo|{density=3.0,width=1080,height=2400}
+Reno8 Pro|Oppo|{density=3.0,width=1080,height=2412}
+Galaxy A04s|Samsung|{density=2.75,width=720,height=1600}
+Galaxy A04|Samsung|{density=2.75,width=720,height=1600}
+Galaxy A23 5G|Samsung|{density=3.0,width=1080,height=2408}
+Galaxy M13 5G|Samsung|{density=2.75,width=720,height=1600}
+Galaxy F13|Samsung|{density=3.0,width=1080,height=2408}
+Galaxy M53|Samsung|{density=3.0,width=1080,height=2408}
+V25 Pro|Vivo|{density=3.0,width=1080,height=2376}
+iQOO Z6x|Vivo|{density=3.0,width=1080,height=2408}
+V25e|Vivo|{density=3.0,width=1080,height=2404}
+Y35|Vivo|{density=3.0,width=1080,height=2408}
+V25|Vivo|{density=3.0,width=1080,height=2404}
+Vivo Y91|Vivo|{density=2.75,width=720,height=1520}
+Vivo V23 5G|Vivo|{density=3.0,width=1080,height=2400}
+Pixel 6a|Google|{density=3.0,width=1080,height=2400}
+Pixel 6 Pro|Google|{density=3.0,width=1440,height=3120}
+Pixel 6|Google|{density=3.0,width=1080,height=2400}
+Pixel 5a 5G|Google|{density=3.0,width=1080,height=2400}
+Pixel 5|Google|{density=3.0,width=1080,height=2340}
+Pixel 4a 5G|Google|{density=3.0,width=1080,height=2340}
+Pixel 4a|Google|{density=3.0,width=1080,height=2340}
+Pixel 4 XL|Google|{density=3.0,width=1440,height=3040}
+Hot 12 Pro|Infinix|{density=2.75,width=720,height=1612}
+Note 12 Pro|Infinix|{density=3.0,width=1080,height=2400}
+Note 12i|Infinix|{density=2.75,width=720,height=1640}
+Hot 11S|Infinix|{density=3.0,width=1080,height=2480}
+Zenfone 9|Asus|{density=3.0,width=1080,height=2400}
+ROG Phone 6 Pro|Asus|{density=3.0,width=1080,height=2448}
+ROG Phone 6|Asus|{density=3.0,width=1080,height=2448}
+ROG Phone 5s|Asus|{density=3.0,width=1080,height=2448}
+Zenfone 8|Asus|{density=3.0,width=1080,height=2400}
+Zenfone 6 ZS630KL|Asus|{density=3.0,width=1080,height=2340}
+Zenfone Max Plus (M2) ZB63KL|Asus|{density=3.0,width=1080,height=2246}
+V25 Pro|Vivo|{density=3.0,width=1080,height=2376}
+V25|Vivo|{density=3.0,width=1080,height=2404}
+V25e|Vivo|{density=3.0,width=1080,height=2404}
+i3 Pro|Tecno|{density=2.75,width=720,height=1280}
+iQOO Z6x|Vivo|{density=3.0,width=1080,height=2408}
+Tecno CX Air|Tecno|{density=2.75,width=720,height=1440}
+Tecno K7|Tecno|{density=2.75,width=720,height=1280}
+Tecno Phantom 8|Tecno|{density=3.0,width=1080,height=1}
+ROG Phone 5s|Asus|{density=3.0,width=1080,height=2448}
+ROG Phone 6|Asus|{density=3.0,width=1080,height=2448}
+ROG Phone 6 Pro|Asus|{density=3.0,width=1080,height=2448}
+Reno8 4G|Oppo|{density=3.0,width=1080,height=2400}
+Reno8 Pro|Oppo|{density=3.0,width=1080,height=2412}
+Pixel 3a XL|Google|{density=3.0,width=1080,height=2160}
+Pixel 4 XL|Google|{density=3.0,width=1440,height=3040}
+Pixel 4a 5G|Google|{density=3.0,width=1080,height=2340}
+Pixel 4a|Google|{density=3.0,width=1080,height=2340}
+Pixel 5|Google|{density=3.0,width=1080,height=2340}
+Pixel 5a 5G|Google|{density=3.0,width=1080,height=2400}
+Pixel 6|Google|{density=3.0,width=1080,height=2400}
+Pixel 6 Pro|Google|{density=3.0,width=1440,height=3120}
+Pixel 6a|Google|{density=3.0,width=1080,height=2400}
+Note 12 Pro|Infinix|{density=3.0,width=1080,height=2400}
+Note 12i|Infinix|{density=2.75,width=720,height=1640}
+LA7|Tecno|{density=2.75,width=720,height=1440}
+Galaxy A04|Samsung|{density=2.75,width=720,height=1600}
+Galaxy A04s|Samsung|{density=2.75,width=720,height=1600}
+Galaxy A23 5G|Samsung|{density=3.0,width=1080,height=2408}
+Galaxy F13|Samsung|{density=3.0,width=1080,height=2408}
+Galaxy F23|Samsung|{density=3.0,width=1080,height=2408}
+Galaxy M13 5G|Samsung|{density=2.75,width=720,height=1600}
+Galaxy M53|Samsung|{density=3.0,width=1080,height=2408}
+F15|Oppo|{density=3.0,width=1080,height=2400}
+F17 Pro|Oppo|{density=3.0,width=1080,height=2400}
+F19 Pro|Oppo|{density=3.0,width=1080,height=2400}
+A12|Oppo|{density=2.75,width=720,height=1520}
+A15|Oppo|{density=2.75,width=720,height=1600}
+A54 5G|Oppo|{density=3.0,width=1080,height=2400}
+A57e|Oppo|{density=2.75,width=720,height=1612}
+A57s|Oppo|{density=2.75,width=720,height=1612}
+A74 5G|Oppo|{density=3.0,width=1080,height=2400}
+Hot 11S|Infinix|{density=3.0,width=1080,height=2480}
+Hot 12 Pro|Infinix|{density=2.75,width=720,height=1612}
+Vivo V23 5G|Vivo|{density=3.0,width=1080,height=2400}
+Vivo Y91|Vivo|{density=2.75,width=720,height=1520}
+Y35|Vivo|{density=3.0,width=1080,height=2408}
+Zenfone 6 ZS630KL|Asus|{density=3.0,width=1080,height=2340}
+Zenfone 8|Asus|{density=3.0,width=1080,height=2400}
+Zenfone 9|Asus|{density=3.0,width=1080,height=2400}
+Zenfone Max Plus (M2) ZB63KL|Asus|{density=3.0,width=1080,height=2246}
+Motorola Moto G Power (2022)|Motorola|{density=2.5,width=1080,height=2400}
+Huawei Nova 8|Huawei|{density=2.9,width=1080,height=2400}
+Sony Xperia 5 II|Sony|{density=2.9,width=1080,height=2520}
+LG Stylo 6|LG|{density=2.5,width=1080,height=2460}
+Oppo Reno 5 Pro|Oppo|{density=2.9,width=1080,height=2400}
+Nokia 3.4|Nokia|{density=2.5,width=720,height=1600}
+Vivo Y30|Vivo|{density=2.5,width=720,height=1600}
+Samsung Galaxy A42 5G|Samsung|{density=2.5,width=720,height=1600}
+Xiaomi Mi 10T Pro|Xiaomi|{density=2.8,width=1080,height=2400}
+Google Pixel 4a|Google|{density=2.5,width=1080,height=2340}
+OnePlus Nord|OnePlus|{density=2.9,width=1080,height=2400}
+iPhone 11|Apple|{density=2.0,width=828,height=1792}
+Samsung Galaxy A71|Samsung|{density=2.5,width=1080,height=2400}
+Realme 7 Pro|Realme|{density=2.5,width=1080,height=2400}
+Asus ZenFone 7|Asus|{density=2.9,width=1080,height=2400}
+Motorola Moto G9 Plus|Motorola|{density=2.5,width=1080,height=2400}
+Huawei P20 Pro|Huawei|{density=2.5,width=1080,height=2240}
+Sony Xperia 10 II|Sony|{density=2.6,width=1080,height=2520}
+LG K92 5G|LG|{density=2.5,width=1080,height=2460}
+Oppo A73|Oppo|{density=2.5,width=1080,height=2400}
+Nokia 5.3|Nokia|{density=2.5,width=720,height=1600}
+Vivo V19|Vivo|{density=2.5,width=1080,height=2400}
+Samsung Galaxy M51|Samsung|{density=2.5,width=1080,height=2340}
+Xiaomi Redmi 9|Xiaomi|{density=2.5,width=1080,height=2340}
+Google Pixel 3a|Google|{density=2.5,width=1080,height=2220}
+OnePlus 7T|OnePlus|{density=2.9,width=1080,height=2400}
+iPhone SE (2022)|Apple|{density=2.0,width=750,height=1334}
+Samsung Galaxy Note 10|Samsung|{density=2.5,width=1080,height=2280}
+Realme 6 Pro|Realme|{density=2.5,width=1080,height=2400}
+Asus ZenFone 6|Asus|{density=2.8,width=1080,height=2340}
+Motorola Moto G8 Plus|Motorola|{density=2.5,width=1080,height=2280}
+Huawei Mate 30 Pro|Huawei|{density=2.5,width=1176,height=2400}
+Sony Xperia 1 II|Sony|{density=3.0,width=1644,height=3840}
+LG V60 ThinQ 5G|LG|{density=2.5,width=1080,height=2460}
+Oppo A52|Oppo|{density=2.5,width=1080,height=2400}
+Nokia 7.2|Nokia|{density=2.5,width=1080,height=2340}
+Vivo V17 Pro|Vivo|{density=2.5,width=1080,height=2400}
+Samsung Galaxy A31|Samsung|{density=2.5,width=1080,height=2400}
+Xiaomi Mi 9T Pro|Xiaomi|{density=2.5,width=1080,height=2340}
+Google Pixel 4|Google|{density=2.5,width=1080,height=2280}
+OnePlus 7 Pro|OnePlus|{density=2.9,width=1440,height=3120}
+iPhone XR|Apple|{density=2.0,width=828,height=1792}
+Samsung Galaxy A21s|Samsung|{density=2.5,width=720,height=1600}
+Realme C25|Realme|{density=2.5,width=720,height=1600}
+Asus ZenFone 5Z|Asus|{density=2.5,width=1080,height=2246}
+Motorola Moto E7 Plus|Motorola|{density=2.5,width=720,height=1600}
+Huawei Y9 Prime (2019)|Huawei|{density=2.5,width=1080,height=2340}
+Sony Xperia L4|Sony|{density=2.5,width=720,height=1680}
+LG Q70|LG|{density=2.5,width=1080,height=2310}
+Oppo A9 (2020)|Oppo|{density=2.5,width=1080,height=2340}
+Nokia 2.3|Nokia|{density=2.5,width=720,height=1520}
+Vivo S1 Pro|Vivo|{density=2.5,width=1080,height=2340}
+Xiaomi Redmi Note 8 Pro|Xiaomi|{density=2.5,width=1080,height=2340}
+Google Pixel 3|Google|{density=2.5,width=1080,height=2160}
+OnePlus 6T|OnePlus|{density=2.5,width=1080,height=2340}
+iPhone X|Apple|{density=3.0,width=1125,height=2436}
+Samsung Galaxy A11|Samsung|{density=2.0,width=720,height=1560}
+Tecno Camon 17|Tecno|{density=2.5,width=1080,height=2460}
+Tecno Phantom X|Tecno|{density=3.0,width=1080,height=2340}
+Tecno Spark 8|Tecno|{density=2.5,width=720,height=1600}
+Tecno Pouvoir 4|Tecno|{density=2.5,width=720,height=1600}
+Tecno Camon 16|Tecno|{density=2.5,width=720,height=1600}
+Tecno Spark 7|Tecno|{density=2.5,width=720,height=1600}
+Tecno Phantom 9|Tecno|{density=2.5,width=1080,height=2340}
+Tecno Pouvoir 3|Tecno|{density=2.5,width=720,height=1600}
+Tecno Camon 15|Tecno|{density=2.5,width=720,height=1600}
+Tecno Spark 6|Tecno|{density=2.5,width=720,height=1600}
+Tecno Spark 10 Pro|Tecno|{density=2.5,width=720,height=1600}
